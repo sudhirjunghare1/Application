@@ -10,6 +10,6 @@ private static void displayGreeting(){
 System.out.println("Hello Happy Sales People!");
 System.out.println("This App Shows Sales Data!");
  
- system.out.println("Thanks For Information");
+// system.out.println("Thanks For Information");
 }
 }
